@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(SolutionDir)\vcxproj.props" />
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{EF9AE473-A8CA-4E93-9853-8EE7B487F960}</ProjectGuid>
+  </PropertyGroup>
+</Project>

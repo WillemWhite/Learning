@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(SolutionDir)\vcxproj.props" />
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{5911E2E6-59BC-436D-BF04-49A9055959A0}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <ClCompile Include="parabola.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="parb.h" />
+  </ItemGroup>
+</Project>
