@@ -15,3 +15,8 @@ parabola.o: parabola.cpp
 
 clean: 
 	del *.o *.gch
+
+# higher for windows, lower for linux. Uncomment and comment the necessary things.
+
+#clean:
+#	rm -rf *.o *.gch
